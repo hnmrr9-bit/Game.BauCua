@@ -1,0 +1,14 @@
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\Game.BauCua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\Game.BauCua.AssemblyInfoInputs.cache
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\Game.BauCua.AssemblyInfo.cs
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\Game.BauCua.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\bin\Debug\net9.0\Game.BauCua.exe
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\bin\Debug\net9.0\Game.BauCua.deps.json
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\bin\Debug\net9.0\Game.BauCua.runtimeconfig.json
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\bin\Debug\net9.0\Game.BauCua.dll
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\bin\Debug\net9.0\Game.BauCua.pdb
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\Game.BauCua.dll
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\refint\Game.BauCua.dll
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\Game.BauCua.pdb
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\Game.BauCua.genruntimeconfig.cache
+C:\Users\ADMIN\RiderProjects\Game.BauCua\Game.BauCua\obj\Debug\net9.0\ref\Game.BauCua.dll
